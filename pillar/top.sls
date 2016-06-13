@@ -1,3 +1,3 @@
-base:
+qa:
   '*':
     - pillar-environment

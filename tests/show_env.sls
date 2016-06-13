@@ -3,8 +3,4 @@ info-environment:
     - name: 'Show Environment Info'
     - changes: False
     - result: True
-<<<<<<< HEAD
     - comment: 'SALT DEVELOPMENT BRANCH'
-=======
-    - comment: 'MASTER BRANCH'
->>>>>>> master

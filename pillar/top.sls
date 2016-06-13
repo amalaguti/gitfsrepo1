@@ -1,3 +1,3 @@
-prod:
+base:
   '*':
     - pillar-environment

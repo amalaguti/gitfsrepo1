@@ -1,4 +1,4 @@
-pi_environment: 'Git Pillar PROD base.'
-pi_branch: 'master'
-pi_PROD: 'TRUE'
+pi_environment: 'Git Pillar TESTING BRANCH.'
+pi_branch: 'TESTING'
+pi_PROD: 'TESTING BRANCH'
 

@@ -1,6 +1,6 @@
 info-environment:
   test.configurable_test_state:
     - name: 'Show Environment Info'
-    - changes: False
+    - changes: True
     - result: True
-    - comment: 'MASTER BRANCH'
+    - comment: 'TESTING BRANCH'

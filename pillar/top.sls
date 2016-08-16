@@ -1,7 +1,7 @@
-testing:
+master:
   '*':
     - pillar-environment
 
-master:
+testing:
   '*':
     - pillar-environment

@@ -1,7 +1,3 @@
-master:
-  '*':
-    - pillar-environment
-
 base:
   '*':
     - pillar-environment
